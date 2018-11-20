@@ -1,2 +1,2 @@
 # Random-Blendering
-A collection of Blender 3D files
+A collection .blend files, made while learning blender.
